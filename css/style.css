@@ -20,10 +20,10 @@
 }
 
 /* BLOCCO STEPS */
-#steps .row>.left,
+/* #steps .row>.left,
 #steps .row>.central,
 #steps .row>.right {
-  /* float: left; */
+  float: left; */
 }
 
 #steps {
