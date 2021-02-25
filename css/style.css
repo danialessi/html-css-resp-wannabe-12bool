@@ -6,16 +6,6 @@
   float: left;
 } */
 
-#lezioni img {
-  /* per centrare orizzontalmente */
-  display: block;
-  margin: 20px auto;
-}
-
-#lezioni {
-  text-align: center;
-}
-
 /* BLOCCO STEPS */
 /* #steps .row>.left,
 #steps .row>.central,
@@ -27,15 +17,7 @@
   text-align: center;
 }
 
-#steps img {
-  margin-top: 40px;
-}
-
 /* BLOCCO PERCHE */
-#why {
-  text-align: center;
-}
-
 /* #why .row>.first,
 #why .row>.second,
 #why .row>.third {
@@ -57,5 +39,6 @@
 }
 
 img {
+  margin-top: 40px;
   height: 180px;
 }
