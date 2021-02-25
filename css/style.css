@@ -51,12 +51,6 @@
 }
 
 /* COMMON */
-.row::after {
-  content: '';
-  display: table;
-  clear: both;
-}
-
 .grey {
   background-color: #f9f9f9;
   margin-top: 20px;
