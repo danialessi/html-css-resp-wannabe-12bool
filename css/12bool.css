@@ -98,8 +98,6 @@
 
     .col-xs-12 {
         width: calc(100% / 12 *12);
-        float: none;
-        font-size: 18px;
     }
 
 
