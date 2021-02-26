@@ -145,6 +145,11 @@
     .col-xs-offset-11 {
         margin-left: calc(100% / 12 *11);
     }
+
+    /* xs-hidden  */
+    .xs-hidden {
+        display: none;
+    }
 }    
 /* end smartphone  */
 
@@ -242,6 +247,11 @@
     .col-md-offset-11 {
         margin-left: calc(100% / 12 *11);
     }
+
+    /* md-hidden  */
+    .md-hidden {
+        display: none;
+    }
 }
 /* end tablet  */
 
@@ -338,6 +348,11 @@
 
     .col-lg-offset-11 {
         margin-left: calc(100% / 12 *11);
+    }
+
+    /* lg-hidden  */
+    .lg-hidden {
+        display: none;
     }
 }
 /* end desktop  */
